@@ -1,0 +1,17 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px;
+    color: white;   
+}
+
+.heading {
+    margin: 0;
+    font-size: 24px;
+}
+
+.votes {
+    margin: 0;
+    font-size: 18px;
+}

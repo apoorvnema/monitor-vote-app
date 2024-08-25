@@ -1,0 +1,19 @@
+.list {
+    background-color: rgb(32, 33, 35);
+    margin-top: 10px;
+    padding-left: 20px;
+}
+
+.listItem {
+    background-color: rgb(32, 33, 35);
+    margin-bottom: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+}
+
+.total {
+    background-color: rgb(32, 33, 35);
+    width: 100%;
+}
